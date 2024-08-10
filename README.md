@@ -16,6 +16,7 @@ In this i will store all my solved DSA practice questions and concepts.
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Faizali112/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0389-find-the-difference](https://github.com/Faizali112/DSA/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -25,4 +26,12 @@ In this i will store all my solved DSA practice questions and concepts.
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Faizali112/DSA/tree/master/0389-find-the-difference) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Faizali112/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Faizali112/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
