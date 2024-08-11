@@ -20,6 +20,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Faizali112/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Faizali112/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Faizali112/DSA/tree/master/0389-find-the-difference) |
+| [0459-repeated-substring-pattern](https://github.com/Faizali112/DSA/tree/master/0459-repeated-substring-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -37,4 +38,5 @@ In this i will store all my solved DSA practice questions and concepts.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Faizali112/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Faizali112/DSA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
