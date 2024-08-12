@@ -43,5 +43,10 @@ In this i will store all my solved DSA practice questions and concepts.
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Faizali112/DSA/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Faizali112/DSA/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Faizali112/DSA/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
