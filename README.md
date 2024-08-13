@@ -30,6 +30,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | ------- |
 | [0242-valid-anagram](https://github.com/Faizali112/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Faizali112/DSA/tree/master/0389-find-the-difference) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Faizali112/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | ------- |
 | [0066-plus-one](https://github.com/Faizali112/DSA/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Faizali112/DSA/tree/master/0283-move-zeroes) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Faizali112/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Faizali112/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Math
 |  |
