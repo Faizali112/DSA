@@ -45,8 +45,10 @@ In this i will store all my solved DSA practice questions and concepts.
 | ------- |
 | [0066-plus-one](https://github.com/Faizali112/DSA/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Faizali112/DSA/tree/master/0283-move-zeroes) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Faizali112/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Faizali112/DSA/tree/master/0066-plus-one) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Faizali112/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 <!---LeetCode Topics End-->
