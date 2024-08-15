@@ -24,6 +24,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0242-valid-anagram](https://github.com/Faizali112/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Faizali112/DSA/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/Faizali112/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0742-to-lower-case](https://github.com/Faizali112/DSA/tree/master/0742-to-lower-case) |
 ## Bit Manipulation
 |  |
 | ------- |
