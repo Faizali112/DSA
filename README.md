@@ -50,6 +50,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | ------- |
 | [0066-plus-one](https://github.com/Faizali112/DSA/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Faizali112/DSA/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/Faizali112/DSA/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/Faizali112/DSA/tree/master/0932-monotonic-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Faizali112/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Faizali112/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -59,4 +60,12 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0013-roman-to-integer](https://github.com/Faizali112/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Faizali112/DSA/tree/master/0066-plus-one) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Faizali112/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Faizali112/DSA/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Faizali112/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
