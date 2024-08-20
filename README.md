@@ -15,6 +15,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0013-roman-to-integer](https://github.com/Faizali112/DSA/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Faizali112/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Faizali112/DSA/tree/master/0389-find-the-difference) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Faizali112/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0283-move-zeroes](https://github.com/Faizali112/DSA/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Faizali112/DSA/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/Faizali112/DSA/tree/master/0932-monotonic-array) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Faizali112/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Faizali112/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Faizali112/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Math
@@ -70,4 +72,9 @@ In this i will store all my solved DSA practice questions and concepts.
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Faizali112/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Faizali112/DSA/tree/master/0682-baseball-game) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Faizali112/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+## Matrix
+|  |
+| ------- |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Faizali112/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 <!---LeetCode Topics End-->
