@@ -57,6 +57,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0932-monotonic-array](https://github.com/Faizali112/DSA/tree/master/0932-monotonic-array) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Faizali112/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Faizali112/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1791-richest-customer-wealth](https://github.com/Faizali112/DSA/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Faizali112/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Math
 |  |
@@ -80,4 +81,5 @@ In this i will store all my solved DSA practice questions and concepts.
 |  |
 | ------- |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Faizali112/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1791-richest-customer-wealth](https://github.com/Faizali112/DSA/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
