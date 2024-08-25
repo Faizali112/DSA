@@ -51,6 +51,7 @@ In this i will store all my solved DSA practice questions and concepts.
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Faizali112/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Faizali112/DSA/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Faizali112/DSA/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Faizali112/DSA/tree/master/0682-baseball-game) |
@@ -74,6 +75,7 @@ In this i will store all my solved DSA practice questions and concepts.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Faizali112/DSA/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Faizali112/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Faizali112/DSA/tree/master/0682-baseball-game) |
 | [1119-robot-bounded-in-circle](https://github.com/Faizali112/DSA/tree/master/1119-robot-bounded-in-circle) |
@@ -81,6 +83,7 @@ In this i will store all my solved DSA practice questions and concepts.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Faizali112/DSA/tree/master/0054-spiral-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Faizali112/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/Faizali112/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Faizali112/DSA/tree/master/1791-richest-customer-wealth) |
