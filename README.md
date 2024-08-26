@@ -74,6 +74,7 @@ In this i will store all my solved DSA practice questions and concepts.
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Faizali112/DSA/tree/master/0682-baseball-game) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Faizali112/DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -90,4 +91,12 @@ In this i will store all my solved DSA practice questions and concepts.
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Faizali112/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/Faizali112/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Faizali112/DSA/tree/master/1791-richest-customer-wealth) |
+## Tree
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Faizali112/DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Faizali112/DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
