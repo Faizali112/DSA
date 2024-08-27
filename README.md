@@ -69,6 +69,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0013-roman-to-integer](https://github.com/Faizali112/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Faizali112/DSA/tree/master/0066-plus-one) |
 | [1119-robot-bounded-in-circle](https://github.com/Faizali112/DSA/tree/master/1119-robot-bounded-in-circle) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Faizali112/DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Faizali112/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Stack
 |  |
