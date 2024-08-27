@@ -58,6 +58,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0283-move-zeroes](https://github.com/Faizali112/DSA/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Faizali112/DSA/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/Faizali112/DSA/tree/master/0932-monotonic-array) |
+| [1325-path-with-maximum-probability](https://github.com/Faizali112/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Faizali112/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Faizali112/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1677-matrix-diagonal-sum](https://github.com/Faizali112/DSA/tree/master/1677-matrix-diagonal-sum) |
@@ -100,4 +101,16 @@ In this i will store all my solved DSA practice questions and concepts.
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Faizali112/DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Faizali112/DSA/tree/master/1325-path-with-maximum-probability) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Faizali112/DSA/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Faizali112/DSA/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
