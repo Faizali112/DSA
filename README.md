@@ -38,6 +38,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | ------- |
 | [0242-valid-anagram](https://github.com/Faizali112/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Faizali112/DSA/tree/master/0389-find-the-difference) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Faizali112/DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Faizali112/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0932-monotonic-array](https://github.com/Faizali112/DSA/tree/master/0932-monotonic-array) |
 | [1325-path-with-maximum-probability](https://github.com/Faizali112/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Faizali112/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Faizali112/DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Faizali112/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1677-matrix-diagonal-sum](https://github.com/Faizali112/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Faizali112/DSA/tree/master/1791-richest-customer-wealth) |
