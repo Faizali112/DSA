@@ -31,6 +31,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0657-robot-return-to-origin](https://github.com/Faizali112/DSA/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Faizali112/DSA/tree/master/0742-to-lower-case) |
 | [1119-robot-bounded-in-circle](https://github.com/Faizali112/DSA/tree/master/1119-robot-bounded-in-circle) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Faizali112/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -100,6 +101,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0682-baseball-game](https://github.com/Faizali112/DSA/tree/master/0682-baseball-game) |
 | [1119-robot-bounded-in-circle](https://github.com/Faizali112/DSA/tree/master/1119-robot-bounded-in-circle) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Faizali112/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Faizali112/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Matrix
 |  |
 | ------- |
