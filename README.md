@@ -16,6 +16,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0073-set-matrix-zeroes](https://github.com/Faizali112/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Faizali112/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Faizali112/DSA/tree/master/0389-find-the-difference) |
+| [0906-walking-robot-simulation](https://github.com/Faizali112/DSA/tree/master/0906-walking-robot-simulation) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Faizali112/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## String
 |  |
@@ -64,6 +65,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0283-move-zeroes](https://github.com/Faizali112/DSA/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Faizali112/DSA/tree/master/0682-baseball-game) |
 | [0890-lemonade-change](https://github.com/Faizali112/DSA/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/Faizali112/DSA/tree/master/0906-walking-robot-simulation) |
 | [0932-monotonic-array](https://github.com/Faizali112/DSA/tree/master/0932-monotonic-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Faizali112/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1325-path-with-maximum-probability](https://github.com/Faizali112/DSA/tree/master/1325-path-with-maximum-probability) |
@@ -100,6 +102,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0067-add-binary](https://github.com/Faizali112/DSA/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Faizali112/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Faizali112/DSA/tree/master/0682-baseball-game) |
+| [0906-walking-robot-simulation](https://github.com/Faizali112/DSA/tree/master/0906-walking-robot-simulation) |
 | [1119-robot-bounded-in-circle](https://github.com/Faizali112/DSA/tree/master/1119-robot-bounded-in-circle) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Faizali112/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Faizali112/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
