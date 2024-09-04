@@ -79,6 +79,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | ------- |
 | [0013-roman-to-integer](https://github.com/Faizali112/DSA/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Faizali112/DSA/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Faizali112/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Faizali112/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Faizali112/DSA/tree/master/0067-add-binary) |
 | [1018-largest-perimeter-triangle](https://github.com/Faizali112/DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -139,4 +140,8 @@ In this i will store all my solved DSA practice questions and concepts.
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Faizali112/DSA/tree/master/1349-check-if-it-is-a-straight-line) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Faizali112/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
