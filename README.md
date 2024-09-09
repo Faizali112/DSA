@@ -148,8 +148,10 @@ In this i will store all my solved DSA practice questions and concepts.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Faizali112/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Faizali112/DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Faizali112/DSA/tree/master/0206-reverse-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Faizali112/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Faizali112/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
