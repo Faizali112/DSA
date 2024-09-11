@@ -85,6 +85,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0050-powx-n](https://github.com/Faizali112/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Faizali112/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Faizali112/DSA/tree/master/0067-add-binary) |
+| [0445-add-two-numbers-ii](https://github.com/Faizali112/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Faizali112/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/Faizali112/DSA/tree/master/1119-robot-bounded-in-circle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Faizali112/DSA/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -93,6 +94,7 @@ In this i will store all my solved DSA practice questions and concepts.
 ## Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/Faizali112/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/Faizali112/DSA/tree/master/0682-baseball-game) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Faizali112/DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Simulation
@@ -157,4 +159,5 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0002-add-two-numbers](https://github.com/Faizali112/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Faizali112/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Faizali112/DSA/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Faizali112/DSA/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
