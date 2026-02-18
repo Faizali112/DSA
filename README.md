@@ -51,6 +51,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Faizali112/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Faizali112/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Faizali112/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/Faizali112/DSA/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
@@ -64,6 +65,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0054-spiral-matrix](https://github.com/Faizali112/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Faizali112/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Faizali112/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Faizali112/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/Faizali112/DSA/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Faizali112/DSA/tree/master/0682-baseball-game) |
 | [0890-lemonade-change](https://github.com/Faizali112/DSA/tree/master/0890-lemonade-change) |
