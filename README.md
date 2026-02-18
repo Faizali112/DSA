@@ -71,6 +71,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [1325-path-with-maximum-probability](https://github.com/Faizali112/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Faizali112/DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Faizali112/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1480-running-sum-of-1d-array](https://github.com/Faizali112/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Faizali112/DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Faizali112/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1677-matrix-diagonal-sum](https://github.com/Faizali112/DSA/tree/master/1677-matrix-diagonal-sum) |
@@ -160,4 +161,8 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0021-merge-two-sorted-lists](https://github.com/Faizali112/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Faizali112/DSA/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Faizali112/DSA/tree/master/0445-add-two-numbers-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Faizali112/DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
