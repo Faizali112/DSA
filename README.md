@@ -84,6 +84,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [1480-running-sum-of-1d-array](https://github.com/Faizali112/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Faizali112/DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Faizali112/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1672-richest-customer-wealth](https://github.com/Faizali112/DSA/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/Faizali112/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Faizali112/DSA/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Faizali112/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -126,6 +127,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0054-spiral-matrix](https://github.com/Faizali112/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Faizali112/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Faizali112/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1672-richest-customer-wealth](https://github.com/Faizali112/DSA/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/Faizali112/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Faizali112/DSA/tree/master/1791-richest-customer-wealth) |
 ## Tree
