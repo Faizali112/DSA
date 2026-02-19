@@ -43,6 +43,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | ------- |
 | [0242-valid-anagram](https://github.com/Faizali112/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Faizali112/DSA/tree/master/0389-find-the-difference) |
+| [0905-sort-array-by-parity](https://github.com/Faizali112/DSA/tree/master/0905-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/Faizali112/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Faizali112/DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Faizali112/DSA/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -53,6 +54,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Faizali112/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Faizali112/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/Faizali112/DSA/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/Faizali112/DSA/tree/master/0905-sort-array-by-parity) |
 ## String Matching
 |  |
 | ------- |
@@ -69,6 +71,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0283-move-zeroes](https://github.com/Faizali112/DSA/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Faizali112/DSA/tree/master/0682-baseball-game) |
 | [0890-lemonade-change](https://github.com/Faizali112/DSA/tree/master/0890-lemonade-change) |
+| [0905-sort-array-by-parity](https://github.com/Faizali112/DSA/tree/master/0905-sort-array-by-parity) |
 | [0906-walking-robot-simulation](https://github.com/Faizali112/DSA/tree/master/0906-walking-robot-simulation) |
 | [0932-monotonic-array](https://github.com/Faizali112/DSA/tree/master/0932-monotonic-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Faizali112/DSA/tree/master/1018-largest-perimeter-triangle) |
