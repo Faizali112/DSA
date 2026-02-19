@@ -64,6 +64,7 @@ In this i will store all my solved DSA practice questions and concepts.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Faizali112/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Faizali112/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Faizali112/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Faizali112/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Faizali112/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -172,4 +173,12 @@ In this i will store all my solved DSA practice questions and concepts.
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Faizali112/DSA/tree/master/1480-running-sum-of-1d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Faizali112/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Faizali112/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
