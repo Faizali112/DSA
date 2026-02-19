@@ -69,6 +69,7 @@ In this i will store all my solved DSA practice questions and concepts.
 | [0066-plus-one](https://github.com/Faizali112/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Faizali112/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Faizali112/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Faizali112/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Faizali112/DSA/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Faizali112/DSA/tree/master/0682-baseball-game) |
 | [0890-lemonade-change](https://github.com/Faizali112/DSA/tree/master/0890-lemonade-change) |
@@ -181,4 +182,5 @@ In this i will store all my solved DSA practice questions and concepts.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Faizali112/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Faizali112/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
